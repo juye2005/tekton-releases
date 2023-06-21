@@ -1,1 +1,1 @@
-FROM mcr.microsoft.com/powershell:nanoserver@sha256:b6d5ff841b78bdf2dfed7550000fd4f3437385b8fa686ec0f010be24777654d6
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.30.4@sha256:36dbe491f1c39c15850febad08a94f199e894fd3f7fbc5ed117d397a9d715959
